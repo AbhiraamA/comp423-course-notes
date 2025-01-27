@@ -121,7 +121,4 @@ NOTE: Use go build to create a standalone binary for production environments. go
 * [MkDocs Documentation](https://www.mkdocs.org/)
 
 
-
-
-
-
+NOTE: I hope you enjoyed this Go demo! Thank you for visiting this website! 
