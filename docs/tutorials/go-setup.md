@@ -184,7 +184,4 @@ git push origin main
 * [MkDocs Documentation](https://www.mkdocs.org/)
 
 
-
-
-
-
+NOTE: I hope you enjoyed this Go demo! Thank you for visiting this website! 
